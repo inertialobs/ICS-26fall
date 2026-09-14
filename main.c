@@ -4,5 +4,6 @@ int main()
 {
     // @TODO: print a sentence you want.
     printf("a sentence you want\n");
+    // here we have a new feature
     // another new feature directly appear in main
 }
